@@ -1,83 +1,0 @@
-ELF          >    p@     @       Ø-          @ 8 	 @         @       @ @     @ @     ø      ø                   8      8@     8@                                          @       @     ”      ”                          `     `     H      P                    (      (`     (`     Ğ      Ğ                   T      T@     T@     D       D              Påtd   0      0@     0@     ¤       ¤              Qåtd                                                  Råtd         `     `     ğ      ğ             /lib64/ld-linux-x86-64.so.2          GNU                        GNU êŒ5%ı7wŠ'[tJÓ ë                                                     B                      <                      
-                                            *                      G                       #                       libc.so.6 __stack_chk_fail printf malloc __libc_start_main write free __gmon_start__ GLIBC_2.4 GLIBC_2.2.5                           ii
-   V      ui	   `       ø`                    `                      `                    ( `                    0 `                    8 `                    @ `                     HƒìH‹  H…Àtè{   HƒÄÃ      ÿ5  ÿ%  @ ÿ%  h    éàÿÿÿÿ%
-  h   éĞÿÿÿÿ%  h   éÀÿÿÿÿ%ú  h   é°ÿÿÿÿ%ò  h   é ÿÿÿÿ%ê  h   éÿÿÿÿ%’  f        1íI‰Ñ^H‰âHƒäğPTIÇÀ @ HÇÁ°@ HÇÇÍ@ è§ÿÿÿôfD  ¸_ ` UH-X ` HƒøH‰åv¸    H…Àt]¿X ` ÿàf„     ]Ã@ f.„     ¾X ` UHîX ` HÁşH‰åH‰ğHÁè?HÆHÑşt¸    H…Àt
-]¿X ` ÿà ]ÃfD  €=1   uUH‰åènÿÿÿ]Æ  óÃ@ ¿ ` Hƒ? uë“ ¸    H…ÀtñUH‰åÿĞ]ézÿÿÿUH‰åHƒì0H‰}ØÇEè    H‹EØ‹ ƒø0s$H‹EØH‹PH‹EØ‹ ‰ÀHĞH‹UØ‹JH‹UØ‰
-ëH‹EØH‹@HHH‹UØH‰J‹ ‰Eğ‹Eğ‰Eôë‹EğÑè‰EğƒEèƒ}ğwîƒEè‹EèH˜HÁàH‰Çè`şÿÿH‰EøHƒ}ø uH‹EøH‰Çèùıÿÿ¸    é€   ÇEì    ë(‹EìH˜H…    H‹EøHĞ‹Uôƒâ‰‹EôÑè‰EôƒEì‹Eì;Eè|Ğ‹Eèƒè‰Eìë'‹EìH˜H…    H‹EøHĞ‹ ƒÀ0¾À‰Çèå
-  ƒmìƒ}ì yÓH‹EøH‰Çèrıÿÿ‹EèÉÃUH‰åHƒìH‰}øH‹Eø‹ ƒø0s$H‹EøH‹PH‹Eø‹ ‰ÀHĞH‹Uø‹JH‹Uø‰
-ëH‹EøH‹@HHH‹UøH‰J‹ ¾À‰Çèo
-  ÉÃUH‰åSHƒì(‰}Ü‰uØ‰ĞˆEÔ‹EÜº    ÷uØ‰Uè‹EÜº    ÷uØ‰Eìƒ}è
-v‹Eè‰Â¶EÔĞƒè
-ˆEçë	‹EèƒÀ0ˆEçƒ}ì u
-¾Eç‰Çè
-
-  ëz‹Eì;EØsPƒ}ì
-v)‹Eì‰Â¶EÔĞƒè
-¾À‰Çèâ
-  ‰Ã¾Eç‰ÇèÕ
-  ØëC‹EìƒÀ0¾À‰ÇèÁ
-  ‰Ã¾Eç‰Çè´
-  Øë"¾UÔ‹MØ‹Eì‰Î‰Çè0ÿÿÿ‰Ã¾Eç‰Çè
-  ØHƒÄ([]ÃUH‰åHƒìH‰}øH‹Eø‹ ƒø0s$H‹EøH‹PH‹Eø‹ ‰ÀHĞH‹Uø‹JH‹Uø‰
-ëH‹EøH‹@HHH‹UøH‰J‹ ºa   ¾   ‰Çè¸şÿÿÉÃUH‰åHƒìH‰}øH‹Eø‹ ƒø0s$H‹EøH‹PH‹Eø‹ ‰ÀHĞH‹Uø‹JH‹Uø‰
-ëH‹EøH‹@HHH‹UøH‰J‹ ºA   ¾   ‰ÇèTşÿÿÉÃUH‰åHƒì H‰}èÇEğ   ÇEô    H‹Eè‹ ƒø0s$H‹EèH‹PH‹Eè‹ ‰ÀHĞH‹Uè‹JH‹Uè‰
-ëH‹EèH‹@HHH‹UèH‰J‹ ‰Eüƒ}ü y¿-   èM	  Eô‹Eü÷Ø‰Eøë‹Eü‰Eøë‹Uğ‰ĞÁàĞÀ‰Eğ‹uğ‹Eøº    ÷öƒø	wßëH‹uğ‹Eøº    ÷öƒÀ0¾À‰Çèû  Eô‹Mğ‹Eøº    ÷ñ‰Uø‹Mğºgfff‰È÷êÁú‰ÈÁø)Â‰Ğ‰Eğƒ}ğ u²‹EôÉÃUH‰åHƒì0H‰}ØÇEè    H‹EØ‹ ƒø0s$H‹EØH‹PH‹EØ‹ ‰ÀHĞH‹UØ‹JH‹UØ‰
-ëH‹EØH‹@HHH‹UØH‰J‹ ‰Eğ‹Eğ‰Eôë
-‹EğÁè‰EğƒEèƒ}ğ wíƒEè‹EèH˜HÁàH‰Çè*úÿÿH‰EøÇEì    ë)‹EìH˜H…    H‹EøHĞ‹Uôƒâ ‰‹EôÁè‰EôƒEì‹Eì;Eè|Ï‹Eèƒè‰Eìë'‹EìH˜H…    H‹EøHĞ‹ ƒÀ0¾À‰ÇèË   ƒmìƒ}ì yÓH‹EøH‰ÇèXùÿÿ‹EèÉÃUH‰åHƒì H‰}èÇEô    ‹Eô‰EğH‹Eè‹ ƒø0s$H‹EèH‹PH‹Eè‹ ‰ÀHĞH‹Uè‹JH‹Uè‰
-ëH‹EèH‹@HHH‹UèH‰JH‹ H‰EøHƒ}ø …  ¸ÿÿÿÿé(  ‹EğHcĞH‹EøHĞ¶ <`~‹EğHcĞH‹EøHĞ¶ <z~0‹EğHcĞH‹EøHĞ¶ <@¬   ‹EğHcĞH‹EøHĞ¶ <Z”   ‹EğHcĞH‹EøHĞ¶ <m~‹EğHcĞH‹EøHĞ¶ <z~(‹EğHcĞH‹EøHĞ¶ <M~6‹EğHcĞH‹EøHĞ¶ <Z"‹EğHcĞH‹EøHĞ¶ ƒè
-¾À‰Çès  Eôë?‹EğHcĞH‹EøHĞ¶ ƒÀ
-¾À‰ÇèQ  Eôë‹EğHcĞH‹EøHĞ¶ ¾À‰Çè2  EôƒEğ‹EğHcĞH‹EøHĞ¶ „À…Ûşÿÿ‹EôÉÃUH‰åHƒì H‰}èH‹Eè‹ ƒø0s$H‹EèH‹PH‹Eè‹ ‰ÀHĞH‹Uè‹JH‹Uè‰
-ëH‹EèH‹@HHH‹UèH‰JH‹ H‰EøHƒ}ø uHÇEøD@ ÇEô    ë‹EôHcĞH‹EøHĞ¶ ¾À‰Çè†  Eô‹EôHcĞH‹EøHĞ¶ „ÀuÏ‹EôÉÃUH‰åHƒì H‰}èÇEø   ÇEü    H‹Eè‹ ƒø0s$H‹EèH‹PH‹Eè‹ ‰ÀHĞH‹Uè‹JH‹Uè‰
-ëH‹EèH‹@HHH‹UèH‰J‹ ‰Eôë‹Uø‰ĞÁàĞÀ‰Eø‹uø‹Eôº    ÷öƒø	wßëH‹uø‹Eôº    ÷öƒÀ0¾À‰ÇèÉ  Eü‹Mø‹Eôº    ÷ñ‰Uô‹Møºgfff‰È÷êÁú‰ÈÁø)Â‰Ğ‰Eøƒ}ø u²‹EüÉÃUH‰åHƒì ¿P@ ¸    èg  ‰Eì¿P@ ¸    è:öÿÿ‰EğÇEôÿ €H¸ğAucş  H‰Eø‹Uì‹Eì‰Æ¿x@ ¸    è&  ‹Uğ‹Eğ‰Æ¿x@ ¸    èôõÿÿ¾2   ¿‰@ ¸    èû  ¾2   ¿‰@ ¸    èÌõÿÿ‹Eô‰Æ¿˜@ ¸    èÓ  ‹Eô‰Æ¿˜@ ¸    è¤õÿÿ‹Eô‰Æ¿§@ ¸    è«  ‹Eô‰Æ¿§@ ¸    è|õÿÿ‹Uô‹Eô‰Æ¿À@ ¸    è€  ‹Uô‹Eô‰Æ¿À@ ¸    èNõÿÿ¾H   ¿ß@ ¸    èU  ¾H   ¿ß@ ¸    è&õÿÿ¾ï@ ¿ÿ@ ¸    è-  ¾ï@ ¿ÿ@ ¸    èşôÿÿH‹EøH‰Æ¿@ ¸    è  H‹EøH‰Æ¿@ ¸    èÒôÿÿ¿@ ¸    èŞ  ‰Eì¿@ ¸    è±ôÿÿ‰Eğ‹Eì‰Æ¿(@ ¸    èµ  ‹Eğ‰Æ¿(@ ¸    è†ôÿÿ¿2@ ¸    è’  ¿2@ ¸    èhôÿÿ¾b   ¿@@ ¸    èo  ‰Eì‹Eì‰Æ¿(@ ¸    èX  ¸    ÉÃUH‰åHƒì0H‰}èH‰uàH‰UØÇEô    ÇEø    ÇEü    ‹EøHcĞH‹EèHĞ¶ ˆEóé  €}ó%…Ò   ÇEü    ƒEø‹EøHcĞH‹EèHĞ¶ ˆEóëƒEü‹EüH˜HÁàH‰ÂH‹EàHĞH‹ H…Àt‹EüH˜HÁàH‰ÂH‹EàHĞH‹ ¶ :EóuÃ‹EüH˜HÁàH‰ÂH‹EàHĞH‹ H…Àt*‹EüH˜HÁàH‰ÂH‹EàHĞH‹PH‹EØH‰Ç¸    ÿÒEôë>€}ó u ¸ÿÿÿÿëU€}ó%t
-¿%   èY  Eô¾Eó‰ÇèK  Eôë¾Eó‰Çè;  EôƒEø‹EøHcĞH‹EèHĞ¶ ˆEó€}ó …õşÿÿ‹EôÉÃUH‰åHì   H‰½hşÿÿH‰µXÿÿÿH‰•`ÿÿÿH‰hÿÿÿL‰…pÿÿÿL‰xÿÿÿ„Àt )E€)M)U )]°)eÀ)mĞ)uà)}ğdH‹%(   H‰…Hÿÿÿ1ÀÇ…tşÿÿ    H…şÿÿ¾€@ º   H‰ÇH‰ÑóH¥Hƒ½hşÿÿ u ¸ÿÿÿÿëYÇ…xşÿÿ   Ç…|şÿÿ0   HEH‰…€şÿÿH…PÿÿÿH‰…ˆşÿÿH•xşÿÿHşÿÿH‹…hşÿÿH‰ÎH‰ÇèÂıÿÿ‰…tşÿÿ‹…tşÿÿH‹µHÿÿÿdH34%(   tèÅñÿÿÉÃUH‰åHƒì‰øˆEüHEüº   H‰Æ¿   èñÿÿÉÃUH‰åH‰}èÇEü    ëƒEü‹EüHcĞH‹EèHĞ¶ „Àuè‹Eü]ÃAWAVA‰ÿAUATL%N
-  UH-N
-  SI‰öI‰ÕL)åHƒìHÁıèïğÿÿH…ít 1Û„     L‰êL‰öD‰ÿAÿÜHƒÃH9ëuêHƒÄ[]A\A]A^A_Ãf.„     óÃ  HƒìHƒÄÃ                     (null)      Let's try to printf a simple sentence.
- Length:[%d, %i]
- Negative:[%b]
- Unsigned:[%u]
- Unsigned octal:[%o]
-     Unsigned hexadecimal:[%x, %X]
- Character:[%c]
- I am a string ! String:[%s]
- Address:[%p]
- Percent:[%%]
- Len:[%d]
- Unknown:[%r]
- %b
-                             c s d b i u o x X R             `@     “ @     b@     O
-@     d@     	@     f@     f@     h@     	@     j@     ó
-@     l@     ›
-@     n@     Ö@     p@     :	@     r@     ­
-@                     ;¤      Àîÿÿğ   @ïÿÿÀ   6ğÿÿ  cñÿÿ8  ÀñÿÿX  ¦òÿÿ€  
-óÿÿ   nóÿÿÀ  kôÿÿà  }õÿÿ   ÷ÿÿ   Ã÷ÿÿ@  øÿÿ`  Êúÿÿ€  üÿÿ   -ıÿÿÀ  Rıÿÿà  €ıÿÿ   ğıÿÿH             zR x        xîÿÿ*                  zR x   $      Èíÿÿp    FJ
-w€ ?;*3$"       D   ïÿÿ-   A†C
-(     d   #ğÿÿ]    A†C
-X   $   „   `ğÿÿæ    A†C
-EƒÜ           ¬   ñÿÿd    A†C
-_      Ì   bñÿÿd    A†C
-_      ì   ¦ñÿÿı    A†C
-ø        ƒòÿÿ   A†C
-
-     ,  uóÿÿ¢   A†C
-     L  ÷ôÿÿ¤    A†C
-Ÿ      l  {õÿÿÚ    A†C
-Õ      Œ  5öÿÿ-   A†C
-(     ¬  BøÿÿQ   A†C
-L     Ì  sùÿÿ   A†C
-
-     ì  eúÿÿ%    A†C
-`         júÿÿ.    A†C
-i    D   ,  xúÿÿe    BBE B(ŒH0†H8ƒ M@r8A0A(B BBB    t   úÿÿ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           @@      @                                  Ğ@     
-       $@            `                          `                   õşÿo    ˜@            x@            ¸@     
-       l       
-                                      `                                         @@             (@                   	              şÿÿo    ø@     ÿÿÿo           ğÿÿo    ä@                                                                                                             (`                     @     @     &@     6@     F@     V@                     GCC: (Ubuntu 5.4.0-6ubuntu1~16.04.6) 5.4.0 20160609                                   8@                   T@                   t@                   ˜@                   ¸@                   x@                    ä@                   ø@                  	 (@                  
- @@                  
- Ğ@                   ğ@                  
- `@                   p@                   $@                   @@                   0@                   Ø@                   `                   `                    `                   (`                   ø`                     `                   H `                   X `                                       ñÿ                      `                   @                  à@             .      @             D     X `            S     `             z     @@             †     `             ¥    ñÿ                ¯    ñÿ                º    ñÿ                Ä    ñÿ                Î    ñÿ                Ø    ñÿ                ä    ñÿ                î    ñÿ                ı    ñÿ                   ñÿ                
-   ñÿ                   ñÿ                    ñÿ                "    @             0     `                  ñÿ                <     `             M    (`             V     `             i     0@             |      `             ’     @            ¢                     ´                      c     H `             Ğ    ú@     Q      Ù    :	@     d       à                     ó    X `             ú    ‚@     .       œ    $@                 “ @     ]                            !                     5    ›
-@           :    K@           B                     a    H `             n    f@     -      s                      ‚   P `                 @@                °@     e       ®                     Â    ­
-@     ¢      H    ` `             g    p@     *       Î    O
-@     ¤       É    ğ @     æ       Ò    X `             Ş    Í@     -      ã    ó
-@     Ú       ç    ]@     %       ğ                         X `                                   *    	@     ı       /    Ö@     d       ¨   
- Ğ@              crtstuff.c __JCR_LIST__ deregister_tm_clones __do_global_dtors_aux completed.7585 __do_global_dtors_aux_fini_array_entry frame_dummy __frame_dummy_init_array_entry get_bin.c get_char.c get_hex.c get_int.c get_oct.c get_rot13.c get_str.c get_unsigned.c main.c printf.c _putchar.c _strlen.c __FRAME_END__ __JCR_END__ __init_array_end _DYNAMIC __init_array_start __GNU_EH_FRAME_HDR _GLOBAL_OFFSET_TABLE_ __libc_csu_fini free@@GLIBC_2.2.5 _ITM_deregisterTMCloneTable print_op _hex_u write@@GLIBC_2.2.5 _edata _strlen ch __stack_chk_fail@@GLIBC_2.4 printf@@GLIBC_2.2.5 _oct _printf __libc_start_main@@GLIBC_2.2.5 __data_start _bin __gmon_start__ __dso_handle _IO_stdin_used __libc_csu_init malloc@@GLIBC_2.2.5 _rot13 _hex_str __bss_start main _ui _putchar _Jv_RegisterClasses __TMC_END__ _ITM_registerTMCloneTable _int _hex_l  .symtab .strtab .shstrtab .interp .note.ABI-tag .note.gnu.build-id .gnu.hash .dynsym .dynstr .gnu.version .gnu.version_r .rela.dyn .rela.plt .init .plt.got .text .fini .rodata .eh_frame_hdr .eh_frame .init_array .fini_array .jcr .dynamic .got.plt .data .bss .comment                                                                                    8@     8                                    #              T@     T                                     1              t@     t      $                              D   öÿÿo       ˜@     ˜                                   N   
-          ¸@     ¸      À                           V             x@     x      l                              ^   ÿÿÿo       ä@     ä                                  k   şÿÿo       ø@     ø      0                            z             (@     (                                  „      B       @@     @                                              Ğ@     Ğ                                    ‰             ğ@     ğ      p                             ”             `@     `                                                 p@     p      ²                             £             $@     $      	                              ©             @@     @      ğ                              ±             0@     0      ¤                              ¿             Ø@     Ø      ¼                             É             `                                         Õ             `                                         á              `                                          æ             (`     (      Ğ                           ˜             ø`     ø                                   ï               `             H                             ø             H `     H                                     ş             X `     X                                          0               X       4                                                   Æ,                                                                 	         :                 	                      )      6                             
